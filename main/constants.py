@@ -1,0 +1,3 @@
+    
+strand1 = "GAGCCTACTAACGGGAT"
+strand2 = "CATCGTAATGACGGCCT"
